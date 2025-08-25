@@ -27,3 +27,7 @@ python translator.py
 🤝 Contribution
 
 Contributions are welcome! Feel free to fork the repo, create issues, and submit pull requests.
+
+👤 Contact
+Anmol Pandey
+www.linkedin.com/in/anmol-pandey-240105376
