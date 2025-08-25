@@ -1,6 +1,6 @@
 # 🌍 Language Translation Tool  
 
-A simple and efficient **Language Translator** that helps users translate text between multiple languages using APIs like **Google Translate API** or **Microsoft Translator API**.  
+A simple and efficient **Language Translator** that helps users translate text between multiple languages using **Google Translate API**.  
 
 ## 🚀 Features  
 - Multi-language support (English, Hindi, Spanish, French, etc.)  
@@ -14,7 +14,7 @@ A simple and efficient **Language Translator** that helps users translate text b
 ## 📦 Installation  
 
 1. Clone the repository  
-git clone https://github.com/yourusername/language-translator.git
+git clone https://github.com/AnmolPandey9119/Codealpha_language-translator.git
 cd language-translator
 
 2.Install required dependencies
