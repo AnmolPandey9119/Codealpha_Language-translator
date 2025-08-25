@@ -1,6 +1,11 @@
 import requests
 import json
 import os
+from os import getenv
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 LANGUAGES = {
     'en': 'English', 'es': 'Spanish', 'fr': 'French', 'de': 'German',
@@ -108,7 +113,7 @@ def main():
     Main function to run the translation tool.
     """
 
-    api_key = "AIzaSyAI98Ff1S16VYwTTBJvPuONs21ilczUaFg"
+    api_key = "getenv("GOOGLE_API_KEY")"
     
     while True:
         clear_screen()
